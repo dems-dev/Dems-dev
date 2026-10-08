@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:714B67,50:875A7B,100:00A09D&height=280&section=header&text=Dhimas%20Agung&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Odoo%20Implementor%20%E2%80%A2%20ERP%20%26%20E-Commerce%20Builder&descAlignY=62&descSize=20&stroke=ffffff&strokeWidth=1" width="100%" alt="Dhimas Agung, Odoo Implementor"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:714B67,50:875A7B,100:00A09D&height=280&section=header&text=Dhimas%20Agung&fontSize=72&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Odoo%20Implementor%20%E2%80%A2%20ERP%20and%20E-Commerce%20Builder&descAlignY=62&descSize=20&stroke=ffffff&strokeWidth=1" width="100%" alt="Dhimas Agung, Odoo Implementor"/>
 
 <a href="https://github.com/Dems-dev">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=700&color=00A09D&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Turning+messy+processes+into+clean+Odoo+flows;Building+B2B%2FB2C+e-commerce+on+Odoo+19;From+requirement+doc+to+go-live" alt="Turning messy processes into clean Odoo flows"/>
